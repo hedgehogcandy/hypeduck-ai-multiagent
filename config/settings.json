@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "autoSync": true,
+  "platforms": ["instagram", "google", "naver"],
+  "agents": {
+    "chrome-mcp": { "enabled": true },
+    "multi-agent": { "enabled": true }
+  }
+}
